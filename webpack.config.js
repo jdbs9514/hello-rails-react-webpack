@@ -16,6 +16,14 @@ module.exports = {
       },
     ],
   },
+    module: {
+      rules: [
+        {
+          test: /\.css$/i,
+          use: ["style-loader", "css-loader"],
+        },
+      ],
+    },
   output: {
     filename: "[name].js",
     sourceMapFilename: "[file].map",
