@@ -25,15 +25,6 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -60,11 +51,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello Rails React webapp <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**Hello Rails React webapp** is a simple app to merge webpack into rails enviroment
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -82,7 +71,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://ruby-lan.com/">Ruby.js</a></li>
   </ul>
 </details>
 
@@ -97,11 +86,10 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Make models with ruby on raisl**
+- **Addes postgres SQL**
+- **views with React**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +107,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -139,6 +126,8 @@ Example command:
 
 Clone this repository to your desired folder:
 
+https://github.com/jdbs9514/hello-rails-react-webpack.git
+
 <!--
 Example commands:
 
@@ -152,52 +141,23 @@ Example commands:
 
 Install this project with:
 
-<!--
-Example command:
 
 ```sh
-  cd my-project
-  gem install
+  $ bundle install
 ```
---->
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
 
 ```sh
   rails server
 ```
---->
 
-### Run tests
 
-To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -205,19 +165,12 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Josue Benavides**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@jdbs9514](https://github.com/jdbs9514)
+- Twitter: [@JODA1015](https://twitter.com/JODA1015)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/macoin)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
@@ -225,9 +178,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Deploy**
+- [ ] **Styling**
+- [ ] **Testing**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,9 +198,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project give me the star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -257,25 +209,10 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank ti microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
